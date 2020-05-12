@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          hapless-customer
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/tale"
 url:            "https://chesterhow.github.io"
@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         hapless-customer
+  url:          https://hapless-customer.github.io
+  email:        hapless.customer@gmail.com
 
 # Build settings
 markdown:       kramdown
